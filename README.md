@@ -82,7 +82,7 @@ Click the link below to view the complete Python source code.
 
 ### 4. MySQL Alert Records
 
-![MySQL Alert Records](mysql-alert-records.png)
+![MySQL Alert Records](https://github.com/Reeshurajesh/System-Alert-Monitoring-And-watsapp-Notification-System/blob/482af425d661ce896ad948294c83fd00a4e65ffa/Screenshot%20(75).png)
 
 ## Author
 
