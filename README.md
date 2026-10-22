@@ -41,6 +41,12 @@ The application also integrates with a MySQL database to store system monitoring
 - **PyWhatKit** – Attempts to send WhatsApp notifications.
 - **datetime** – Records the date and time of monitoring events.
 
+## 💻 Source Code
+
+Click the link below to view the complete Python source code for the project.
+
+🔗 [View Python Source Code](🔗 Un GitHub Project – System Alert Monitoring & WhatsApp Notification System)
+
 
 ## 📋 System Requirements
 
