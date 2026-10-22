@@ -78,7 +78,7 @@ Click the link below to view the complete Python source code.
 
 ### 3. MySQL Normal Records
 
-![MySQL Normal Records](mysql-normal-records.png)
+![MySQL Normal Records](https://github.com/Reeshurajesh/System-Alert-Monitoring-And-watsapp-Notification-System/blob/10088506282ca45465c03311c1663c6a1bd7d08d/Screenshot%20(74).png)
 
 ### 4. MySQL Alert Records
 
