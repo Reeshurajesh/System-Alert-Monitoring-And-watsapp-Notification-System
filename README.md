@@ -74,7 +74,7 @@ Click the link below to view the complete Python source code.
 
 ### 2. WhatsApp Alert Notification
 
-![WhatsApp Alert Notification](whatsapp-alert.png)
+![WhatsApp Alert Notification](https://github.com/Reeshurajesh/System-Alert-Monitoring-And-watsapp-Notification-System/blob/242e072dafdf9d92500ec1eb1a932e12b93487a4/Screenshot%20(72)%202.png)
 
 ### 3. MySQL Normal Records
 
