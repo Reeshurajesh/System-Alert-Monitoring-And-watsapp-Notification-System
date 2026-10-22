@@ -70,7 +70,7 @@ Click the link below to view the complete Python source code.
 
 ### 1. System Monitoring Interface
 
-![System Monitoring Interface](gui-output.png)
+![System Monitoring Interface](https://github.com/Reeshurajesh/System-Alert-Monitoring-And-watsapp-Notification-System/blob/143dd3bdac4c9be7f8a3bbe79daec8ef6836b7df/Screenshot%20(73)%201.png)
 
 ### 2. WhatsApp Alert Notification
 
